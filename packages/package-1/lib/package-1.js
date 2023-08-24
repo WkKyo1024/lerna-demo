@@ -3,6 +3,6 @@
 module.exports = package1;
 
 function package1() {
-  console.log('Hello fro m pssackage1');
+  console.log('Hxxxxx');
   return 'Hello from package1';
 }
