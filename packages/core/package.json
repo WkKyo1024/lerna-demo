@@ -1,6 +1,6 @@
 {
-  "name": "@lerna-demo-wk/core",
-  "version": "0.0.3",
+  "name": "@lerna-demo-wk2/core",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "kaige <1509266864@qq.com>",
   "homepage": "https://github.com/WkKyo1024/lerna-demo#readme",
@@ -17,8 +17,8 @@
     "lib"
   ],
   "dependencies": {
-    "package-1": "^0.0.1",
-    "package-2": "^0.0.1"
+    "package-1": "file:../package-1",
+    "package-2": "file:../package-2"
   },
   "repository": {
     "type": "git",
