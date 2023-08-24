@@ -1,0 +1,33 @@
+{
+  "name": "@lerna-demo-wk/core",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "kaige <1509266864@qq.com>",
+  "homepage": "https://github.com/WkKyo1024/lerna-demo#readme",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "bin": {
+    "wk-cli2": "lib/core.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "dependencies": {
+    "package-1": "file:../package-1",
+    "package-2": "file:../package-2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WkKyo1024/lerna-demo.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/WkKyo1024/lerna-demo/issues"
+  }
+}
