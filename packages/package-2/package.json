@@ -1,5 +1,5 @@
 {
-  "name": "package-2",
+  "name": "@lerna-demo-wk/package-2",
   "version": "0.0.1",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
@@ -23,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/WkKyo1024/lerna-demo/issues"
   },
-  "homepage": "https://github.com/WkKyo1024/lerna-demo#readme"
+  "homepage": "https://github.com/WkKyo1024/lerna-demo#readme",
+  "gitHead": "23c7d57c081aa1a4ffc1aa08634d927406c42039"
 }

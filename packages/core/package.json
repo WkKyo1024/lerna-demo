@@ -17,8 +17,8 @@
     "lib"
   ],
   "dependencies": {
-    "package-1": "file:../package-1",
-    "package-2": "file:../package-2"
+    "package-1": "^0.0.1",
+    "package-2": "^0.0.1"
   },
   "repository": {
     "type": "git",
@@ -29,5 +29,6 @@
   },
   "bugs": {
     "url": "https://github.com/WkKyo1024/lerna-demo/issues"
-  }
+  },
+  "gitHead": "23c7d57c081aa1a4ffc1aa08634d927406c42039"
 }

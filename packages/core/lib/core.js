@@ -9,6 +9,7 @@ const pag2 = require("package-2")
 function core() {
   pag1()
   pag2()
+  console.log('core!!!!!');
   return 'Hello from core';
 }
 
